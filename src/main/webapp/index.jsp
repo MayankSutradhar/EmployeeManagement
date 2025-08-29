@@ -27,7 +27,7 @@
 		         <li class="nav-item">
 		        	<span style="margin-left: 950px;">Current Date : <%=Calendar.getInstance().getTime() %></span>
 		         </li>
-    		    </ul> 
+    		    </ul>
  			 </div>
 </nav>
 				
